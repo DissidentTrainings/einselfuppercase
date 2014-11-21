@@ -18,9 +18,13 @@ describe('einsElfUpperCase', function(){
     })
   })
   describe('upperCaseEinsElf', function(){
-      it('should return HALLO if input is hallo', function(){
-         var res = einsElf.upperCaseEinsElf('hallo');
-         assert.equal(res,'HALLO');
+
+
+      it('should add !!!11einseinself to input.upperCase', function(){
+
+          var res=einsElf.upperCaseEinsElf('hallo');
+          assert.equal(res, 'HALLO!!!11einseinself');
+
       })
   })
 })

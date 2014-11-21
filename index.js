@@ -18,7 +18,7 @@ var einsElf = {
     return true;
   },
   upperCaseEinsElf: function(input) {
-    return input.toUpperCase();
+    return input.toUpperCase()+'!!!11einseinself';
 
   }
 };
