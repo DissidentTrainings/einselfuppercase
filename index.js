@@ -2,8 +2,14 @@
 
 
 var einsElf = {
-  validate: function(string) {},
+  validate: function(input) {
+  if (input == ""){
+  return false;
+    }
+    return true;
+  },
   upperCaseEinsElf: function() {}
 };
 
 module.exports = einsElf;
+  
