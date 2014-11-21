@@ -1,0 +1,24 @@
+{
+  "name": "einselfuppercase",
+  "version": "0.0.1",
+  "description": "Takes a string, makes it upper case and adds !!!1einself! to it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DissidentTrainings/einselfuppercase.git"
+  },
+  "keywords": [
+    "fun",
+    "tutorial",
+    "workshop"
+  ],
+  "author": "S. Schuermann, F. Gibau, A. Koch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DissidentTrainings/einselfuppercase/issues"
+  },
+  "homepage": "https://github.com/DissidentTrainings/einselfuppercase"
+}
