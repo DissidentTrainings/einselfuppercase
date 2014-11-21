@@ -8,5 +8,9 @@ describe('einsElffUpperCase', function(){
       var res = einsElf.validate("");
       assert.equal(res, false); 
     })
+    it('the lengths of input string at least 3 characters',function(){
+      var res = einsElf.validate('ab');
+      assert.equal(res,false);
+    })
   })
 })
