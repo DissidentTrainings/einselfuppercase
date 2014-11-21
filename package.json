@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/DissidentTrainings/einselfuppercase/issues"
   },
-  "homepage": "https://github.com/DissidentTrainings/einselfuppercase"
+  "homepage": "https://github.com/DissidentTrainings/einselfuppercase",
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  }
 }
