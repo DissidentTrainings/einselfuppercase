@@ -1,6 +1,6 @@
 {
   "name": "einselfuppercase",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Takes a string, makes it upper case and adds !!!1einself! to it",
   "main": "index.js",
   "scripts": {
