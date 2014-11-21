@@ -4,7 +4,7 @@
   "description": "Takes a string, makes it upper case and adds !!!1einself! to it",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
